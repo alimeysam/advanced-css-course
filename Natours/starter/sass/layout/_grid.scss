@@ -11,7 +11,7 @@
 
     [class^="col-"] {
         float: left;
-        color: $color-black;
+        // color: $color-black;
 
         &:not(:last-child){
             margin-right: $gutter-horizontal;
